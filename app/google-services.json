@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487511375019",
+    "project_id": "vta-app-8f437",
+    "storage_bucket": "vta-app-8f437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487511375019:android:1f1710abc9ffd3e39c4bee",
+        "android_client_info": {
+          "package_name": "com.transport.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487511375019-5pa9cr5fsdbspgt5kskug0eqi74kvepa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCruOtqhmDA8-BsxOeVv3DcvkkI6bw6tyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487511375019-5pa9cr5fsdbspgt5kskug0eqi74kvepa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
